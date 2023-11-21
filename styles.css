@@ -80,6 +80,12 @@ header {
     text-align: center;
 }
 
+header img {
+    width: 30px;
+    height: auto;
+    margin-right: 10px;
+}
+
 code {
     display: block;
     font-family: 'Courier New', monospace;
